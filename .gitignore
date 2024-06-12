@@ -6,3 +6,5 @@
 .ipynb_checkpoints/.gitignore-checkpoint
 .ipynb_checkpoints/01_preprocess_data-checkpoint.ipynb
 .ipynb_checkpoints/02_join_data-checkpoint.ipynb
+.ipynb_checkpoints/03_experiment-checkpoint.ipynb
+TEST/.ipynb_checkpoints/00_download_data_test-checkpoint.ipynb
