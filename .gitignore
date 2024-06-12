@@ -4,3 +4,5 @@
 .ipynb_checkpoints/00_download_data-checkpoint.ipynb
 .ipynb_checkpoints/.ipynb_checkpoints/Sample_notebook-checkpoint-checkpoint.ipynb
 .ipynb_checkpoints/.gitignore-checkpoint
+.ipynb_checkpoints/01_preprocess_data-checkpoint.ipynb
+.ipynb_checkpoints/02_join_data-checkpoint.ipynb
